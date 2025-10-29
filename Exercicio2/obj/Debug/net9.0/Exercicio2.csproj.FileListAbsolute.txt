@@ -1,0 +1,15 @@
+F:\Github\100-Exercicios-CSharp\100-Exercicios-CSharp\Exercicio2\bin\Debug\net9.0\Exercicio2.exe
+F:\Github\100-Exercicios-CSharp\100-Exercicios-CSharp\Exercicio2\bin\Debug\net9.0\Exercicio2.deps.json
+F:\Github\100-Exercicios-CSharp\100-Exercicios-CSharp\Exercicio2\bin\Debug\net9.0\Exercicio2.runtimeconfig.json
+F:\Github\100-Exercicios-CSharp\100-Exercicios-CSharp\Exercicio2\bin\Debug\net9.0\Exercicio2.dll
+F:\Github\100-Exercicios-CSharp\100-Exercicios-CSharp\Exercicio2\bin\Debug\net9.0\Exercicio2.pdb
+F:\Github\100-Exercicios-CSharp\100-Exercicios-CSharp\Exercicio2\obj\Debug\net9.0\Exercicio2.GeneratedMSBuildEditorConfig.editorconfig
+F:\Github\100-Exercicios-CSharp\100-Exercicios-CSharp\Exercicio2\obj\Debug\net9.0\Exercicio2.AssemblyInfoInputs.cache
+F:\Github\100-Exercicios-CSharp\100-Exercicios-CSharp\Exercicio2\obj\Debug\net9.0\Exercicio2.AssemblyInfo.cs
+F:\Github\100-Exercicios-CSharp\100-Exercicios-CSharp\Exercicio2\obj\Debug\net9.0\Exercicio2.csproj.CoreCompileInputs.cache
+F:\Github\100-Exercicios-CSharp\100-Exercicios-CSharp\Exercicio2\obj\Debug\net9.0\Exercicio2.sourcelink.json
+F:\Github\100-Exercicios-CSharp\100-Exercicios-CSharp\Exercicio2\obj\Debug\net9.0\Exercicio2.dll
+F:\Github\100-Exercicios-CSharp\100-Exercicios-CSharp\Exercicio2\obj\Debug\net9.0\refint\Exercicio2.dll
+F:\Github\100-Exercicios-CSharp\100-Exercicios-CSharp\Exercicio2\obj\Debug\net9.0\Exercicio2.pdb
+F:\Github\100-Exercicios-CSharp\100-Exercicios-CSharp\Exercicio2\obj\Debug\net9.0\Exercicio2.genruntimeconfig.cache
+F:\Github\100-Exercicios-CSharp\100-Exercicios-CSharp\Exercicio2\obj\Debug\net9.0\ref\Exercicio2.dll
