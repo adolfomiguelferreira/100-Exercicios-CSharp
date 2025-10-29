@@ -1,0 +1,15 @@
+F:\Github\100-Exercicios-CSharp\100-Exercicios-CSharp\1\bin\Debug\net9.0\1.exe
+F:\Github\100-Exercicios-CSharp\100-Exercicios-CSharp\1\bin\Debug\net9.0\1.deps.json
+F:\Github\100-Exercicios-CSharp\100-Exercicios-CSharp\1\bin\Debug\net9.0\1.runtimeconfig.json
+F:\Github\100-Exercicios-CSharp\100-Exercicios-CSharp\1\bin\Debug\net9.0\1.dll
+F:\Github\100-Exercicios-CSharp\100-Exercicios-CSharp\1\bin\Debug\net9.0\1.pdb
+F:\Github\100-Exercicios-CSharp\100-Exercicios-CSharp\1\obj\Debug\net9.0\1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Github\100-Exercicios-CSharp\100-Exercicios-CSharp\1\obj\Debug\net9.0\1.AssemblyInfoInputs.cache
+F:\Github\100-Exercicios-CSharp\100-Exercicios-CSharp\1\obj\Debug\net9.0\1.AssemblyInfo.cs
+F:\Github\100-Exercicios-CSharp\100-Exercicios-CSharp\1\obj\Debug\net9.0\1.csproj.CoreCompileInputs.cache
+F:\Github\100-Exercicios-CSharp\100-Exercicios-CSharp\1\obj\Debug\net9.0\1.sourcelink.json
+F:\Github\100-Exercicios-CSharp\100-Exercicios-CSharp\1\obj\Debug\net9.0\1.dll
+F:\Github\100-Exercicios-CSharp\100-Exercicios-CSharp\1\obj\Debug\net9.0\refint\1.dll
+F:\Github\100-Exercicios-CSharp\100-Exercicios-CSharp\1\obj\Debug\net9.0\1.pdb
+F:\Github\100-Exercicios-CSharp\100-Exercicios-CSharp\1\obj\Debug\net9.0\1.genruntimeconfig.cache
+F:\Github\100-Exercicios-CSharp\100-Exercicios-CSharp\1\obj\Debug\net9.0\ref\1.dll
